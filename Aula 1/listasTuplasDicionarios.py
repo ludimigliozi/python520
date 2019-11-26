@@ -114,4 +114,5 @@ letras = 'abcde'
 print(letras[0])
 
 letras = 'abcde' + 'opljuk'
-#print(input()'digite um numero: ') + (input('Digite outro numero: '))
+#git push
+# print(input()'digite um numero: ') + (input('Digite outro numero: '))
